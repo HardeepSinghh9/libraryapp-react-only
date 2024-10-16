@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel.",
+    "rating": 4.9,
+    "category": "Fiction"
+  },
+  {
+    "id": 2,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "description": "A brief history of humankind.",
+    "rating": 4.8,
+    "category": "Non-Fiction"
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "description": "A science fiction epic.",
+    "rating": 4.7,
+    "category": "Sci-Fi"
+  },
+  {
+    "id": 4,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A novel about racial injustice.",
+    "rating": 4.8,
+    "category": "Fiction"
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A story of the Jazz Age.",
+    "rating": 4.7,
+    "category": "Fiction"
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A story about teenage angst.",
+    "rating": 4.5,
+    "category": "Fiction"
+  },
+  {
+    "id": 7,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic romance novel.",
+    "rating": 4.9,
+    "category": "Fiction"
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy adventure.",
+    "rating": 4.8,
+    "category": "Fantasy"
+  },
+  {
+    "id": 9,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "description": "A tale of a great white whale.",
+    "rating": 4.4,
+    "category": "Fiction"
+  },
+  {
+    "id": 10,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "A historical epic.",
+    "rating": 4.6,
+    "category": "Historical Fiction"
+  },
+  {
+    "id": 11,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A philosophical novel.",
+    "rating": 4.7,
+    "category": "Fiction"
+  },
+  {
+    "id": 12,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "A dystopian science fiction novel.",
+    "rating": 4.6,
+    "category": "Sci-Fi"
+  },
+  {
+    "id": 13,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "description": "A post-apocalyptic novel.",
+    "rating": 4.5,
+    "category": "Fiction"
+  },
+  {
+    "id": 14,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "description": "A story set in Nazi Germany.",
+    "rating": 4.8,
+    "category": "Historical Fiction"
+  },
+  {
+    "id": 15,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "description": "A dystopian novel.",
+    "rating": 4.7,
+    "category": "Fiction"
+  },
+  {
+    "id": 16,
+    "title": "The Shining",
+    "author": "Stephen King",
+    "description": "A horror novel.",
+    "rating": 4.6,
+    "category": "Horror"
+  },
+  {
+    "id": 17,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "description": "A mystery thriller.",
+    "rating": 4.5,
+    "category": "Thriller"
+  },
+  {
+    "id": 18,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "description": "A crime thriller.",
+    "rating": 4.6,
+    "category": "Thriller"
+  },
+  {
+    "id": 19,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "description": "A psychological thriller.",
+    "rating": 4.5,
+    "category": "Thriller"
+  },
+  {
+    "id": 20,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "description": "A young adult romance.",
+    "rating": 4.7,
+    "category": "Young Adult"
+  },
+  {
+    "id": 21,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "description": "A dystopian novel.",
+    "rating": 4.8,
+    "category": "Young Adult"
+  },
+  {
+    "id": 22,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "A fantasy novel.",
+    "rating": 4.9,
+    "category": "Fantasy"
+  },
+  {
+    "id": 23,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "description": "A story of friendship and redemption.",
+    "rating": 4.8,
+    "category": "Fiction"
+  }
+]
